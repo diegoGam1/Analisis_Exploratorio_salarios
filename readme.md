@@ -1,4 +1,4 @@
-#  Análisis Exploratorio de Salarios en el Sector de Datos  
+#  Análisis Exploratorio de Salarios en el Sector Tecnologico 
 **Autor:** Diego Gamarra
 
 ---
